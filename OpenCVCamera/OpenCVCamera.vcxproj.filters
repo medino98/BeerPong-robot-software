@@ -26,4 +26,10 @@
     <Text Include="HelloWorld.txt" />
     <Text Include="ezMarBalaDevBranchenVan.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <Library Include="opencv_world430.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="opencv_world430.dll" />
+  </ItemGroup>
 </Project>
