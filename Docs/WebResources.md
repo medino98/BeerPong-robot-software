@@ -1,4 +1,4 @@
-#Useful learning resources:
+# Useful learning resources:
 
-##Building OpenCV
+## Building OpenCV
 https://perso.uclouvain.be/allan.barrea/opencv/cmake_config.html
