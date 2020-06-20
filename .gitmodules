@@ -1,0 +1,3 @@
+[submodule "External/OpenCV"]
+	path = External/OpenCV
+	url = https://github.com/opencv/opencv
