@@ -24,7 +24,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="HelloWorld.txt" />
-    <Text Include="ezMarBalaDevBranchenVan.txt" />
   </ItemGroup>
   <ItemGroup>
     <Library Include="opencv_world430.lib" />
