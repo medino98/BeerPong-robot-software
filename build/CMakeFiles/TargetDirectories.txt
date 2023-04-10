@@ -1,0 +1,9 @@
+C:/Programming_workspace/C_C++_workspace/BeerPong-robot-software/build/CMakeFiles/Experimental.dir
+C:/Programming_workspace/C_C++_workspace/BeerPong-robot-software/build/CMakeFiles/Nightly.dir
+C:/Programming_workspace/C_C++_workspace/BeerPong-robot-software/build/CMakeFiles/Continuous.dir
+C:/Programming_workspace/C_C++_workspace/BeerPong-robot-software/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Programming_workspace/C_C++_workspace/BeerPong-robot-software/build/CMakeFiles/BeerPongRobotSoftware.dir
+C:/Programming_workspace/C_C++_workspace/BeerPong-robot-software/build/CMakeFiles/PACKAGE.dir
+C:/Programming_workspace/C_C++_workspace/BeerPong-robot-software/build/CMakeFiles/RUN_TESTS.dir
+C:/Programming_workspace/C_C++_workspace/BeerPong-robot-software/build/CMakeFiles/ALL_BUILD.dir
+C:/Programming_workspace/C_C++_workspace/BeerPong-robot-software/build/CMakeFiles/ZERO_CHECK.dir

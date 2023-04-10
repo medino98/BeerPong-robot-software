@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Programming_workspace/C_C++_workspace/BeerPong-robot-software/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/BeerPongRobotSoftware.dir/includes_CXX.rsp -g -o CMakeFiles\\BeerPongRobotSoftware.dir\\Main.cpp.obj -c C:\\Programming_workspace\\C_C++_workspace\\BeerPong-robot-software\\Main.cpp",
+  "file": "C:/Programming_workspace/C_C++_workspace/BeerPong-robot-software/Main.cpp",
+  "output": "CMakeFiles/BeerPongRobotSoftware.dir/Main.cpp.obj"
+}
+]
